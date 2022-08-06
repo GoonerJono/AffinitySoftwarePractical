@@ -1,0 +1,58 @@
+﻿@model AffinitySoftwarePractical.Models.OrderViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Order</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Order.CustomerId" class="control-label"></label>
+                <select asp-for="Order.CustomerId" class="form-control" asp-items="ViewBag.CustomerId"></select>
+                <span asp-validation-for="Order.CustomerId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Order.OrderDate" class="control-label"></label>
+                <input asp-for="Order.OrderDate" class="form-control" />
+                <span asp-validation-for="Order.OrderDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="OrderDetail.ItemDescription" class="control-label"></label>
+                <input asp-for="OrderDetail.ItemDescription" class="form-control" />
+                <span asp-validation-for="OrderDetail.ItemDescription" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="OrderDetail.Price" class="control-label"></label>
+                <input asp-for="OrderDetail.Price" class="form-control" />
+                <span asp-validation-for="OrderDetail.Price" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="OrderDetail.Quantity" class="control-label"></label>
+                <input asp-for="OrderDetail.Quantity" class="form-control" />
+                <span asp-validation-for="OrderDetail.Quantity" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
