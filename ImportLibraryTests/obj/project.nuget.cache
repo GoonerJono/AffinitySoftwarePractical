@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Ht6SMjvMIX0Uy9AQMNOCcbXdJekbymDqEK4+LRlJRAMOocR4kZXcUs2AfML87b2ETm7vcBTUlew8sBoGcvjpg==",
+  "dgSpecHash": "LOl66Exhf6sjVVWIgUx5QLAoavyS5XHZE3AjncJengmB1ibN2AVoE4auupGHaXbmgWACGo/LpHAGr70BsAOPDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xboxl\\source\\repos\\AffinitySoftwarePractical\\ImportLibraryTests\\ImportLibraryTests.csproj",
+  "projectFilePath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibraryTests\\ImportLibraryTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xboxl\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\xboxl\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

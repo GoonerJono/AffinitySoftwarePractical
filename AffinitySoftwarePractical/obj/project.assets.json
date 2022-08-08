@@ -8428,11 +8428,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xboxl\\source\\repos\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj",
+      "projectUniqueName": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj",
       "projectName": "AffinitySoftwarePractical",
-      "projectPath": "C:\\Users\\xboxl\\source\\repos\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj",
+      "projectPath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj",
       "packagesPath": "C:\\Users\\xboxl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xboxl\\source\\repos\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\obj\\",
+      "outputPath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VHsa9iFIshy2TUYGJp894t6cz6kMLLFzHZy20TroDYQwszWv/aRGsDzmoNolsstek9WDEVmkcr+NQJe4AQzwJQ==",
+  "dgSpecHash": "5bDNJdEggTKcFs5NHd5ehGwIrjVwffCNJBuASROv+aZADIZFAAI1A1jN4OyNPQ1ZzpSG3VRWBSyIcDSQObtR5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xboxl\\source\\repos\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj",
+  "projectFilePath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xboxl\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\xboxl\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
