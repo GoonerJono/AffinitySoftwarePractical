@@ -1,6 +1,5 @@
-﻿using AffinitySoftwarePractical.Data;
-using AffinitySoftwarePractical.Interfaces;
-using AffinitySoftwarePractical.Models;
+﻿using AffinitySoftwarePractical.Interfaces;
+using ImportLibrary;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -10,10 +9,12 @@ namespace AffinitySoftwarePractical.Services
     public class CustomerService: ICustomerService
     {
         private readonly AffinitySoftwarePracticalContext _context;
+        private readonly ICustomerImport _customerImport;
 
-        public CustomerService(AffinitySoftwarePracticalContext context)
+        public CustomerService(AffinitySoftwarePracticalContext context, ICustomerImport customerImport)
         {
             _context = context;
+            _customerImport = customerImport;
         }
 
         public async Task<List<Customer>> GetCustomers()

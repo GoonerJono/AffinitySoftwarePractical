@@ -1,26 +1,32 @@
-﻿using AffinitySoftwarePractical.Interfaces;
-using AffinitySoftwarePractical.Models;
-using System;
+﻿using System;
+using System.Collections.Generic;
 using System.IO;
 
 namespace ImportLibrary
 {
 
-    // My understanding here instead of creating a new conext you should use the customer service to do the final creating of the customer
    public class CustomerImport : ICustomerImport
     {
-        public Customer customer = new Customer();
-        private readonly ICustomerService _customerService;
+        private readonly AffinitySoftwarePracticalContext _context;
 
-        public CustomerImport(ICustomerService customerService)
+        public CustomerImport(AffinitySoftwarePracticalContext context)
         {
-            _customerService = customerService;
+            _context = context;
         }
+
+        public List<Customer> customers = new List<Customer>();
+
+
         public void ImportCustomer()
         {
-            if(customer != null)
+            if(customers.Count != 0)
             {
-                _customerService.CreateCutomer(customer);
+                foreach(var customer in customers)
+                {
+
+                    _context.Customer.Add(customer);
+                    _context.SaveChanges();
+                }
             }
         }
 
@@ -32,10 +38,14 @@ namespace ImportLibrary
                 var line = reader.ReadLine();
                 var values = line.Split(';');
 
-                customer.Id = Convert.ToInt32(values[0]);
-                customer.Name = values[1];
-                ImportCustomer();
+                customers.Add(new Customer()
+                {
+                    Id = Convert.ToInt32(values[0]),
+                    Name = values[1]
+                });
             }
+
+            ImportCustomer();
 
         }
     }

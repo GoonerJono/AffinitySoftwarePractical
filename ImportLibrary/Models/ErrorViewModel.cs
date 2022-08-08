@@ -1,6 +1,6 @@
 using System;
 
-namespace AffinitySoftwarePractical.Models
+namespace ImportLibrary
 {
     public class ErrorViewModel
     {
