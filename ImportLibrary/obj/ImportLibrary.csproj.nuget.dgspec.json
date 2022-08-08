@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj": {}
+    "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj": {
+    "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj",
         "projectName": "ImportLibrary",
-        "projectPath": "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj",
+        "projectPath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj",
         "packagesPath": "C:\\Users\\xboxl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\obj\\",
+        "outputPath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

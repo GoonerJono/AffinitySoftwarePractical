@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ThDynCickTDYzozJti+omZAZsMZDKZjmtHh/C2yVQ5B/qsbKFDy8SlvpGHefxXbyPNe4eoKLskYDkUMqQTALw==",
+  "dgSpecHash": "iS3yeYm8+6d+qBs2KU8WOug82uyecs8sjHUQuX59/7N+DHQpnPjegQ2oqgGC7boaMZS4QlCEtIzw8kxVKrIf5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj",
+  "projectFilePath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xboxl\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\xboxl\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

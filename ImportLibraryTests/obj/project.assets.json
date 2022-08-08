@@ -9341,11 +9341,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibraryTests\\ImportLibraryTests.csproj",
+      "projectUniqueName": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibraryTests\\ImportLibraryTests.csproj",
       "projectName": "ImportLibraryTests",
-      "projectPath": "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibraryTests\\ImportLibraryTests.csproj",
+      "projectPath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibraryTests\\ImportLibraryTests.csproj",
       "packagesPath": "C:\\Users\\xboxl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibraryTests\\obj\\",
+      "outputPath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibraryTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9366,11 +9366,11 @@
         "netcoreapp3.1": {
           "targetAlias": ".NETCoreApp,Version=v3.1",
           "projectReferences": {
-            "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj": {
-              "projectPath": "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj"
+            "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj": {
+              "projectPath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj"
             },
-            "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj": {
-              "projectPath": "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj"
+            "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj": {
+              "projectPath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj"
             }
           }
         }

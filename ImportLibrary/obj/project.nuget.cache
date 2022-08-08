@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0KpzKTof9J1oOJ4heyflX/MYRkXMj8omK3I9NWKGv5GyZ12vUfwIyTTBumdgQcx5nskfZo96gmEtEVhh4CBzew==",
+  "dgSpecHash": "X7+WGGtfsCVTLp4btsZPK9RrCtB8QM31mz9/tZLhxfi3plPXQdd0ol9fRJRwvHIulQ3qRgqX+gDHwJGJ8kWcLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj",
+  "projectFilePath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xboxl\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\xboxl\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
