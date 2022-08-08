@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using AffinitySoftwarePractical.Models;
 
-namespace AffinitySoftwarePractical.Data
+namespace ImportLibrary
 {
     public class AffinitySoftwarePracticalContext : DbContext
     {

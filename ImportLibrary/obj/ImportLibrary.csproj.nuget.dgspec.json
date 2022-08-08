@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj": {}
+    "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj": {
+    "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj",
-        "projectName": "AffinitySoftwarePractical",
-        "projectPath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj",
+        "projectUniqueName": "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj",
+        "projectName": "ImportLibrary",
+        "projectPath": "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj",
         "packagesPath": "C:\\Users\\xboxl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\obj\\",
+        "outputPath": "C:\\Users\\xboxl\\source\\repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,88 +52,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.10, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[3.1.5, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.25, 3.1.25]"
-            }
-          ],
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj",
-        "projectName": "ImportLibrary",
-        "projectPath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\ImportLibrary.csproj",
-        "packagesPath": "C:\\Users\\xboxl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\ImportLibrary\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\xboxl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj": {
-                "projectPath": "C:\\Users\\xboxl\\Source\\Repos\\GoonerJono\\AffinitySoftwarePractical\\AffinitySoftwarePractical\\AffinitySoftwarePractical.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[5.0.10, )"
+              "version": "[3.1.25, )"
             }
           },
           "imports": [
